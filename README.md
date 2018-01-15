@@ -10,10 +10,10 @@
 * * *
 ### Дополнительная информация
 
-это **очень выделенный** текст
+Я изучаю *иностранные* **языки**
 
 -----------
 
-Это [vk](vk.com/glebshumakov "VK")
+Это [ссылка на мой vk](vk.com/glebshumakov "VK")
 
 ![Случайная картинка](http://www.weatherwizkids.com/wp-content/uploads/2015/02/fractus-clouds.jpg )
